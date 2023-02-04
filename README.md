@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything related to Android development  
-- 📫 How to reach me: mail me at [rohityadavnotes@gmail.com](mailto:rohityadavnotes@gmail.com)
+- 📫 How to reach me: mail me at [rohitappnotes@gmail.com](mailto:rohitappnotes@gmail.com)
 - ⚡ Fun fact: I love to cook and ride motorbike/cars
 
 ## Connect with me
