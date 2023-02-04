@@ -8,7 +8,7 @@
 
 ### 🧐 About
 
-- 🔭 I’m currently working as a Android Developer at [Vedansh Technovision Pvt. Ltd](https://vedanshtechnovision.com/)
+- 🔭 I’m currently working as a Sr. Android Developer at [Vedansh Technovision Pvt. Ltd](https://vedanshtechnovision.com/)
 - ⏳ I’m currently learning
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 ![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
