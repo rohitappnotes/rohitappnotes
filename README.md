@@ -8,7 +8,7 @@
 
 ### 🧐 About
 
-- 🔭 I’m currently working as a Sr. Android Developer at [Vedansh Technovision Pvt. Ltd](https://vedanshtechnovision.com/)
+- 🔭 I’m currently working as a Android Developer at [Vedansh Technovision Pvt. Ltd](https://vedanshtechnovision.com/)
 - ⏳ I’m currently learning
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 ![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
@@ -30,7 +30,7 @@
 [gmail]: mailto:rohityaddavnotes@gmail.com/
 [Linkedin]: https://www.linkedin.com/in/rohit-yadav-say-hello/
 [Facebook]: https://www.linkedin.com/in/rohit-yadav-say-hello/
-[Twitter]: https://twitter.com/rohit24yadav
+[Twitter]: https://www.linkedin.com/in/rohit-yadav-say-hello/
 [Medium]: https://www.linkedin.com/in/rohit-yadav-say-hello/
 [Stackoverflow]: https://www.linkedin.com/in/rohit-yadav-say-hello/
 
